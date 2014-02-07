@@ -28,3 +28,8 @@ clean:
 
 $(LATEX_TEMPLATE):
 	git submodule update --init
+
+send:
+	scp resume_en.html dreamhost:luizirber.org/resume/index.html
+	scp resume_br.html dreamhost:luizirber.org/resume/
+	scp resume.css dreamhost:luizirber.org/resume/
