@@ -30,6 +30,6 @@ $(LATEX_TEMPLATE):
 	git submodule update --init
 
 send:
-	scp resume_en.html dreamhost:luizirber.org/resume/index.html
-	scp resume_br.html dreamhost:luizirber.org/resume/
-	scp resume.css dreamhost:luizirber.org/resume/
+	cp resume_en.html ~/prj/luizirber.org/site/resume/index.html
+	cp resume_br.html ~/prj/luizirber.org/site/resume/
+	cp resume.css ~/prj/luizirber.org/site/resume/

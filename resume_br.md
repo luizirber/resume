@@ -35,6 +35,10 @@ Habilidades
 Educação
 --------
 
+*   **Ph.D. student, Computer Science and Engineering**
+
+    Michigan State University, 2014-
+
 *   **Bacharel em Engenharia de Computação**
 
     Universidade Federal de São Carlos (UFSCar), 2004-2010
@@ -47,7 +51,17 @@ Educação
 Histórico Profissional
 ----------------------
 
-*   Desde setembro de 2013 trabalho no time de API do Sync na
+*   Desde janeiro de 2014 eu sou um estudante de doutorado na
+    Michigan State University, trabalhando como assistente de pesquisa
+    no [**Laboratory of Genomics, Evolution and Development**][24]
+    sob orientação do [**Dr. C Titus Brown**][25].
+    Desenvolvi um [**estimator de cardinalidade para k-mers**][26] no software de nosso laboratório,
+    [**khmer**][27],
+    onde sou um dos principais revisores de código.
+    Também trabalho no [**projeto de melhoramento do genoma da galinha**][28],
+    e toda a minha [**análise está disponível no GitHub**][29].
+
+    Desde setembro de 2013 trabalho no time de API do Sync na
     [**Titans Group**][22]. O Sync é um produto whitelabel para sincronização
     de arquivos e contatos  e base do [**Personal Cloud**][23] da Titans.
     No time de API desenvolvemos o backend utilizado por todos os clientes
@@ -168,3 +182,10 @@ Línguas
 [21]: <http://www.cnpdia.embrapa.br/>
 [22]: <http://www.titansgroup.com.br>
 [23]: <http://www.titansgroup.com.br/cloud.php>
+[24]: <http://ged.msu.edu>
+[25]: <http://ivory.idyll.org/blog/>
+[26]: <https://github.com/ged-lab/khmer>
+[27]: <https://github.com/ged-lab/khmer/pull/257>
+[28]: <http://ivory.idyll.org/blog/2013-posted-chick-improvement-grant.html>
+[29]: <https://github.com/luizirber/galGal>
+[30]: <http://software-carpentry.org>

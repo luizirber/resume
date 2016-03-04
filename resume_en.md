@@ -2,7 +2,7 @@ Luiz Carlos Irber Júnior
 ========================
 
 +1 (256) 644-7237
-<luiz.irber@gmail.com>
+<contact@luizirber.org>
 <http://luizirber.org>
 
 Summary
@@ -11,14 +11,17 @@ Summary
 *   **Software Architect and Developer** with a track record of building
     systems that allows people to focus on their areas of expertise.
 
+*   First I built systems to help people focus on their areas of expertise.
+    Now I want to help them to do things they didn't even know were possible.
 
 Skills
 ------
 
+<!-- Old skills, rewrite it to be more updated
 *   Experience with the design and development of desktop, client-server,
-    mobile and scientific software applications. Most recent projects were
-    mostly **Python** and **JavaScript**, but languages used proficiently
-    in the past include **C, Objective-C, Java** and **Fortran**.
+    mobile and scientific software applications. Recent projects were
+    mostly in **Python** and **C++**, but languages used proficiently
+    in the past include **C, Objective-C, Java, JavaScript** and **Fortran**.
 
     Worked with several development platforms/libraries (such as **Cocoa**,
     **Maemo**, and **Cray supercomputers**), tools and frameworks (e.g.
@@ -28,10 +31,17 @@ Skills
     Strong knowledge of **scientific programming**, web technologies
     (HTML, JavaScript, CSS, etc.), algorithms, data structures and other
     concepts and paradigms relevant to software development.
+-->
 
 
 Education
 ---------
+
+*   **Ph.D. student, Computer Science and Engineering**
+
+    University of California, Davis, 2015-
+
+    Michigan State University, 2014-2015
 
 *   **B.E. Computer Engineering**
 
@@ -45,7 +55,23 @@ Education
 Professional History
 --------------------
 
-*   Since September 2013 I'm working in the Sync API team at
+
+*   Since September 2015 I'm continuing my Ph.D degree at University of California,
+    Davis, working as a Graduate Student Researcher at the
+    [**Lab for Data Intensive Biology**][31] under [**Dr. C Titus Brown**][25]
+    orientation. I'm focusing my research on **sketches**, **streaming** and **online**
+	approaches for biological data analysis.
+	I also joined the Designated Emphasis in Biotechnology (DEB) program on February 2016.
+
+    From January 2014 to August 2015 I was a Ph.D student at Michigan State University,
+    working as a Graduate Research Assistant at the
+    [**Laboratory of Genomics, Evolution and Development**][24] under
+    [**Dr. C Titus Brown**][25] orientation.
+    I developed the [**__k__-mer cardinality estimation**][26] functionality on
+    the lab software package, [**khmer**][27],
+    in addition to being a primary code reviewer.
+
+    From September 2013 to December 2013 I worked in the Sync API team at
     [**Titans Group**][22]. Sync is a whitelabel product for files and
     contacts synchronization and base to Titans' [**Personal Cloud**][23].
     In the API team we develop the backend used by all our clients (Web, iOS,
@@ -125,6 +151,8 @@ Open-Source Projects and Other Activities
 Certifications and Awards
 -------------------------
 
+-   Certified [**Software Carpentry**][30] (2014) and [**Data Carpentry**][32] **Instructor** (2015)
+
 -   [**Winner**][16] of the [Pinboard Investment Co-Prosperity Cloud][17] (2013)
 
 -   **Instructor** at the [São Paulo Summer School on Global Climate Modeling][18] (2011)
@@ -161,4 +189,11 @@ Languages
 [20]: <http://hpcugent.github.io/easybuild/>
 [21]: <http://www.cnpdia.embrapa.br/>
 [22]: <http://www.titansgroup.com.br>
-[23]: <http://www.titansgroup.com.br/cloud.php>
+[23]: <http://web.archive.org/web/20130731225430/http://titansgroup.com.br/cloud.php>
+[24]: <http://ged.msu.edu>
+[25]: <http://ivory.idyll.org/blog/>
+[26]: <https://github.com/ged-lab/khmer>
+[27]: <https://github.com/ged-lab/khmer/pull/257>
+[28]: <http://ivory.idyll.org/blog/2013-posted-chick-improvement-grant.html>
+[30]: <http://software-carpentry.org>
+[31]: <http://ivory.idyll.org/lab/>
