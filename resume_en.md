@@ -12,12 +12,13 @@ Summary
     systems that allows people to focus on their areas of expertise.
 
 *   First I built systems to help people focus on their areas of expertise.
-    Now I want to help them to do things they didn't even know were possible.
+    Now I want to help them to do things they didn't even know were possible,
+	while at the same time training them on the basic skills they need to be
+	computationally literate.
 
 Skills
 ------
 
-<!-- Old skills, rewrite it to be more updated
 *   Experience with the design and development of desktop, client-server,
     mobile and scientific software applications. Recent projects were
     mostly in **Python** and **C++**, but languages used proficiently
@@ -31,7 +32,6 @@ Skills
     Strong knowledge of **scientific programming**, web technologies
     (HTML, JavaScript, CSS, etc.), algorithms, data structures and other
     concepts and paradigms relevant to software development.
--->
 
 
 Education
@@ -61,7 +61,7 @@ Professional History
     [**Lab for Data Intensive Biology**][31] under [**Dr. C Titus Brown**][25]
     orientation. I'm focusing my research on **sketches**, **streaming** and **online**
 	approaches for biological data analysis.
-	I also joined the Designated Emphasis in Biotechnology (DEB) program on February 2016.
+	I also joined the [**Designated Emphasis in Biotechnology**][32] (DEB) program on February 2016.
 
     From January 2014 to August 2015 I was a Ph.D student at Michigan State University,
     working as a Graduate Research Assistant at the
@@ -98,7 +98,7 @@ Professional History
 
     -  Operationalization of the model for **seasonal climate forecasts**.
 
-    -  Python training for researchers, including setting up **IPython
+    -  Python training for researchers, including setting up **Jupyter
     notebooks** and **parallel clusters** on the supercomputer.
 
     From September 2008 to July 2009 I worked at [**Pinuts Studios**][5],
@@ -196,4 +196,5 @@ Languages
 [27]: <https://github.com/ged-lab/khmer/pull/257>
 [28]: <http://ivory.idyll.org/blog/2013-posted-chick-improvement-grant.html>
 [30]: <http://software-carpentry.org>
-[31]: <http://ivory.idyll.org/lab/>
+[31]: <http://www.datacarpentry.org>
+[32]: <http://deb.ucdavis.edu/>
