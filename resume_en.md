@@ -1,7 +1,6 @@
 Luiz Carlos Irber Júnior
 ========================
 
-+1 (256) 644-7237
 <contact@luizirber.org>
 <http://luizirber.org>
 
@@ -47,16 +46,22 @@ Education
 
     Universidade Federal de São Carlos (UFSCar), 2004-2010
 
-*   **Technical High School in Informatics**
-
-    Sociedade Educacional Três de Maio (SETREM), 2000-2003
-
 
 Professional History
 --------------------
 
+*   From June to September 2016 I worked as a summer intern in software engineering of the Metagenomics Computation and Analytics Workbench (MCAW)
+    project at the Industrial and Applied Genomics Group of the Accelerated Discovery Lab at IBM Research.
+    MCAW is the main informatics platform used in the [**Sequencing the Food Supply Chain Consortium**][33].
+    It is a compute cluster and web application that enables the management and analysis of DNA and RNA sequence data using extensive bioinformatics methods.
 
-*   Since September 2015 I'm continuing my Ph.D degree at University of California,
+    Projects included:
+    - Scale-out bioinformatics using [**Apache Spark**][34]
+    - Capability extension using **Docker** and **Mesos**
+    - Advanced visualization of genomic data and statistical analysis results (in Python and R)
+    - Experimentation with novel bioinformatics methods
+
+    Since September 2015 I'm continuing my Ph.D degree at University of California,
     Davis, working as a Graduate Student Researcher at the
     [**Lab for Data Intensive Biology**][31] under [**Dr. C Titus Brown**][25]
     orientation. I'm focusing my research on **sketches**, **streaming** and **online**
@@ -198,3 +203,5 @@ Languages
 [30]: <http://software-carpentry.org>
 [31]: <http://www.datacarpentry.org>
 [32]: <http://deb.ucdavis.edu/>
+[33]: <http://www.research.ibm.com/client-programs/foodsafety/>
+[34]: <https://spark.apache.org>

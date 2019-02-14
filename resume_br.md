@@ -1,7 +1,6 @@
 Luiz Carlos Irber Júnior
 ========================
 
-+55 16 99739 9272
 <luiz.irber@gmail.com>
 <http://luizirber.org>
 
